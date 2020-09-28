@@ -1,5 +1,5 @@
 // Place all the styles related to the Products controller here.
-// They will automatically be included in application.css.
+// They will automatically be included in application.scss.
 // You can use Sass (SCSS) here: https://sass-lang.com/
 
 .products {
@@ -22,14 +22,14 @@
     dt {
         color: #244;
         font-weight: bold;
-        font-style: larger;
+        font-size: larger;
     }
     dd{
         margin: 0;
     }
 }
 .list_actions{
-    font-style: x-small;
+    font-size: x-small;
     text-align: right;
     padding-left: 1em;
 
